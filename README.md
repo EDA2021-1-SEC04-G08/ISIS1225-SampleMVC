@@ -28,3 +28,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+-informacion de los integrantes del grupo:
+  
+  * Santiago Martinez Delgadillo (Correo: s.martinezd@uniandes.edu.co // Codigo: 202012611)
+  * Kevin David Alvarez Romero (Correo:  k.alvarezr@uniandes.edu.co // Codigo: 202022834)
+

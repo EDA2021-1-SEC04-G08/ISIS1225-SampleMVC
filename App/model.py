@@ -71,3 +71,8 @@ def createTagList():
     """
     taglist = lt.newList(datastructure='SINGLE_LINKED')
     return taglist
+
+
+def add_bt(btfile):
+    bt = lt.newList(datastructure='SINGLE_LINKED', filename=btfile)
+    return bt

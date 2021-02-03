@@ -52,8 +52,9 @@ def loadTags(filename):
     return tags
 
 
-def loadBooksTags(catalog):
+def loadBooksTags(filename):
     """
-    TODO
+    Carga todos los libros y tags del archivo
     """
-    pass
+    btfile = cf.data_dir + filename
+    return model.add_bt(btfile)
